@@ -11,6 +11,7 @@ module Pemilu
         
         # Prepare Conditions based on params
         validParams = {
+          idWilayah: 'region_id',
           idPemantau: 'id_monitoring'
         }
         
